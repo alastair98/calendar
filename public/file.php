@@ -7,5 +7,6 @@
 </head>
 <body>
     Umumy
+    local
 </body>
 </html>
